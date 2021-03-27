@@ -1,4 +1,5 @@
-<h1 align="center">Merhaba, ben Açelya</h1>
+<img align="center" src="https://github.com/AcelyaTutal07/AcelyaTutal07/blob/main/8c9a079986a4ce112882fea6db3ffdee.gif" alt = "hi" width="100%">
+<h1 align="center">Merhaba, Ben Açelya</h1>
 
 <p align="center">- Üzerinde çalıştığım proje <a href="https://github.com/AcelyaTutal07/ReCarProject"><b>**ReCapProject**</b></a></p>
 <p align="center">- Üzerinde çalıştığım framework <b>.Net Core</b></p>
